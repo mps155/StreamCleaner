@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamCleaner", "StreamCleaner.csproj", "{63B349C6-ADE3-4A44-9680-D719EB3FD7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B349C6-ADE3-4A44-9680-D719EB3FD7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B349C6-ADE3-4A44-9680-D719EB3FD7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B349C6-ADE3-4A44-9680-D719EB3FD7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B349C6-ADE3-4A44-9680-D719EB3FD7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF70E7DC-9264-47A3-B28D-47A14CB01AEF}
+	EndGlobalSection
+EndGlobal
